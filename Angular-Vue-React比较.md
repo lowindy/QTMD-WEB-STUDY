@@ -1,7 +1,8 @@
 
 <p>根据谷歌的趋势，看一下React与Angular与Vue.js的比较。</p>
 <p>如果我们考虑过去一年，Angular似乎是赢家，React排在第二位，为Vue.js留下一小部分。</p>
-<b>以下是一些可以帮助您更好地比较这些框架的问题：</b>
+<img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/Angular-Vue-React-3.jpeg" width="100%"/>
+<p><b>以下是一些可以帮助您更好地比较这些框架的问题：</b></p>
 <ul>
 <li>它们是否足以构建可扩展的应用程序？</li>
 <li>是否很容易为每个框架找到开发人员？</li>
@@ -17,7 +18,8 @@
 <p>现在，来到Vue，Vue.js是讨论最多且发展最快的JavaScript框架之一。它由前谷歌员工Evan You创建，他在担任Google员工时曾在Angular工作过。您可以认为它是成功的，因为它能够使用HTML，CSS和JavaScript构建有吸引力的UI。Vue被阿里巴巴，GitLab，百度使用，并受到全球开发人员和设计师的赞赏。</p>
 <h3>人气和市场趋势</h3>
 <p>根据2017年Stackoverflow调查，Angular受到51.7％的开发者的喜爱，而React被66.9％的受访开发者所接受。React和Angular在流行的前端框架类别中具有几乎相同级别的用户。Vue没有在上述任何一个名单中占据一席之地，但有能力参加这场战斗。</p>
-现在，再看看GitHub上所有这三个框架评级的统计数据。
+<p>现在，再看看GitHub上所有这三个框架评级的统计数据。</p>
+<img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/Angular-Vue-React-2.jpeg" width="100%"/>
 <p>这个GitHub为Angular，React和Vue创作的明星历史展示了Vue.js在开发人员中的流行程度。目前，Vue有108086颗星，React获得106807 颗星，Angular获得 38654颗星。</p>
 如果我们观察上述统计数据，Vue.js似乎很受欢迎。尽管它是一个“单人秀”，但它有能力吸引开发人员的注意力，因为它结构精良且易于构建。</p>
 <p>最重要的是，你不应该忘记Angular和React正被业界的大牌使用。Google在他们的项目中使用了Angular，Facebook，Airbnb，Dropbox，WhatsApp和Netflix等品牌正在其开发环境中使用React。</p>
@@ -64,5 +66,7 @@ React比Angular更灵活，因为Angular是一个完整的框架，React是一�
 <p>如果您喜欢面向对象的编程，Angular绝对是您的选择。</p>
 <p>Vue非常适合小型团队和小型项目。如果您的应用程序似乎很大并且具有重要的未来扩展计划，请选择React或Angular。</p>
 <p>对于跨平台应用程序开发，React Native是一个理想的选择，因为它提供了现代功能，您可以轻松地找到资源。另一方面，Angular需要良好的JavaScript知识才能构建大规模应用程序。</p>
+<h3>一个快速比较Angular React Vue的图</h3>
+<img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/Angular-Vue-React-1.jpeg" width="100%"/>
 <p>在这里，我们尽量不偏向于任何框架。无论技术或框架如何，我们都相信您的要求必须得到满足。如果我们遗漏了任何可以使本文更全面的重要观点或概念，您可以通过以下评论告诉我们！</p>
 <p>PS：懒，不想写，文章来源于网络，作者不详。如果作者看到，需要删除或者留下大名，请留言</p>

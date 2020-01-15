@@ -1,6 +1,8 @@
 
-<p>根据谷歌的趋势，看一下React与Angular与Vue.js的比较。</p>
-<p>如果我们考虑过去一年，Angular似乎是赢家，React排在第二位，为Vue.js留下一小部分。</p>
+<p>根据谷歌的趋势，看一下React与Angular与Vue的比较。</p>
+<p>我们看一下过去12个月的谷歌数据，vue第一，React第二，Angular垫底，但是三者相差不大。</p>
+<img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/Angular-Vue-React-3.jpeg" width="100%"/>
+<p>而在2017年到2018年的时候，Angular似乎是赢家，React排在第二位，为Vue.js留下一小部分。</p>
 <img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/Angular-Vue-React-3.jpeg" width="100%"/>
 <p><b>以下是一些可以帮助您更好地比较这些框架的问题：</b></p>
 <ul>
@@ -19,14 +21,16 @@
 <h3>人气和市场趋势</h3>
 <p>根据2017年Stackoverflow调查，Angular受到51.7％的开发者的喜爱，而React被66.9％的受访开发者所接受。React和Angular在流行的前端框架类别中具有几乎相同级别的用户。Vue没有在上述任何一个名单中占据一席之地，但有能力参加这场战斗。</p>
 <p>现在，再看看GitHub上所有这三个框架评级的统计数据。</p>
-<img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/Angular-Vue-React-2.jpeg" width="100%"/>
-<p>这个GitHub为Angular，React和Vue创作的明星历史展示了Vue.js在开发人员中的流行程度。目前，Vue有108086颗星，React获得106807 颗星，Angular获得 38654颗星。</p>
-如果我们观察上述统计数据，Vue.js似乎很受欢迎。尽管它是一个“单人秀”，但它有能力吸引开发人员的注意力，因为它结构精良且易于构建。</p>
+<img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/react.png" width="100%"/>
+<img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/angular.png" width="100%"/>
+<img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/vue.png" width="100%"/>
+<p>截止2020年1月15日，Vue有156k颗星，React获得142k颗星，而Angular仅获得 56.4k颗星。</p>
+<p>如果我们观察上述统计数据，Vue.js似乎很受欢迎。尽管它是一个“单人秀”，但它有能力吸引开发人员的注意力，因为它结构精良且易于构建。</p>
 <p>最重要的是，你不应该忘记Angular和React正被业界的大牌使用。Google在他们的项目中使用了Angular，Facebook，Airbnb，Dropbox，WhatsApp和Netflix等品牌正在其开发环境中使用React。</p>
 <h3>社区支持与增长</h3>
 <p>由于React由Facebook提供支持而Angular由Google维护，因此这两个框架的增长毫无疑问。在这两个框架中，更新和发布都经常发布，但在迁移时它们得到了很好的维护。根据React和Angular的开发人员的说法，升级不是问题，每六个月会有一次重大更新。Angular团队定期发布版本更新，发布和折旧期。</p>
 <p>如果我们以这种方式考虑Vue.js，就会有一个迁移帮助工具，它使迁移变得更容易。但在大型应用程序中，它可能会导致问题，因为没有适当的路线图专注于版本控制和他们的计划。</p>
-React比Angular更灵活，因为Angular是一个完整的框架，React是一组独立，更快，不断发展的库，为此，你必须密切关注不再支持或维护的每个小模块。</p>
+<p>React比Angular更灵活，因为Angular是一个完整的框架，React是一组独立，更快，不断发展的库，为此，你必须密切关注不再支持或维护的每个小模块。</p>
 <h3>找到开发人员很容易吗？</h3>
 <p>React涉及更多JavaScript，有时这也是人们面向Angular或Vue的原因。使用HTML更有意义，因为React具有不同的JSX语法--JavaScript XML。但是，它不需要在您的应用程序中使用JSX，但熟悉React的设置，环境和体系结构有点困难。</p>
 <p>在这种情况下，Angular是一个非常好的选择。您可以轻松找到Angular开发人员，它拥有一个完善的社区，拥有大量项目，更新，资源，并且具有可持续发展的未来。</p>
@@ -69,4 +73,4 @@ React比Angular更灵活，因为Angular是一个完整的框架，React是一�
 <h3>一个快速比较Angular React Vue的图</h3>
 <img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/Angular-Vue-React-1.jpeg" width="100%"/>
 <p>在这里，我们尽量不偏向于任何框架。无论技术或框架如何，我们都相信您的要求必须得到满足。如果我们遗漏了任何可以使本文更全面的重要观点或概念，您可以通过以下评论告诉我们！</p>
-<p>PS：懒，不想写，文章来源于网络，作者不详。如果作者看到，需要删除或者留下大名，请留言</p>
+<p>PS：懒，不想写，原始文章来源于网络，作者不详，我将一些数据做了一些更新。如果作者看到，需要删除或者留下大名，请留言</p>

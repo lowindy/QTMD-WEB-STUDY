@@ -1,7 +1,7 @@
 
 <p>根据谷歌的趋势，看一下React与Angular与Vue的比较。</p>
 <p>我们看一下过去12个月的谷歌数据，vue第一，React第二，Angular垫底，但是三者相差不大。</p>
-<img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/Angular-Vue-React-3.jpeg" width="100%"/>
+<img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/Angular-Vue-React-3.png" width="100%"/>
 <p>而在2017年到2018年的时候，Angular似乎是赢家，React排在第二位，为Vue.js留下一小部分。</p>
 <img src="https://github.com/lowindy/QTMD-WEB-STUDY/blob/master/imgs/Angular-Vue-React-3.jpeg" width="100%"/>
 <p><b>以下是一些可以帮助您更好地比较这些框架的问题：</b></p>
